@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-scale-factor:toggle"
+    "ctrl-alt-0": "atom-scale-factor:reset",
+    "ctrl-alt-p": "atom-scale-factor:set-scale-factor"
   }
 }

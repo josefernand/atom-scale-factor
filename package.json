@@ -5,7 +5,10 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atom-scale-factor:toggle"
+    "atom-workspace": [
+      "atom-scale-factor:set-scale-factor",
+      "atom-scale-factor:reset"
+    ]
   },
   "repository": "https://github.com/atom/atom-scale-factor",
   "license": "MIT",

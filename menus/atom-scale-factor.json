@@ -1,22 +1,18 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-scale-factor",
-        "command": "atom-scale-factor:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-scale-factor",
+          "label": "Atom Scale Factor",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-scale-factor:toggle"
+              "label": "Set Scale Factor",
+              "command": "atom-scale-factor:set-scale-factor"
+            },
+            {
+              "label": "Reset",
+              "command": "atom-scale-factor:reset"
             }
           ]
         }
