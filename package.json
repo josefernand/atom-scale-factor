@@ -3,8 +3,7 @@
   "main": "./lib/atom-scale-factor",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-scale-factor:toggle"
   },
@@ -13,6 +12,13 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb-base": "^5.0.3",
+    "eslint-plugin-import": "^1.14.0"
+  },
+  "scripts": {
+    "lint": "eslint ."
   }
 }
