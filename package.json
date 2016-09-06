@@ -1,16 +1,16 @@
 {
   "name": "atom-scale-factor",
   "main": "./lib/atom-scale-factor",
-  "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "version": "0.1.0",
+  "description": "Scale your Atom",
+  "keywords": ["scale", "factor", "hidpi", "zoom"],
   "activationCommands": {
     "atom-workspace": [
       "atom-scale-factor:set-scale-factor",
       "atom-scale-factor:reset"
     ]
   },
-  "repository": "https://github.com/atom/atom-scale-factor",
+  "repository": "https://github.com/josefernand/atom-scale-factor.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
