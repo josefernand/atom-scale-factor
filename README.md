@@ -11,3 +11,5 @@ This is useful when:
 
 * Use `Ctrl+Alt+p` and enter your new scale factor ie. 1.5
 * Use `Ctrl+Alt+0` to reset the scale factor to 1
+
+![Atom Scale Factor](https://josefernand.github.io/atom-scale-factor/img/atom-scale-factor.gif)
