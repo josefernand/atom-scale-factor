@@ -1,0 +1,6 @@
+{
+  "name": "Atom Scale Factor",
+  "tagline": "Scale your Atom",
+  "body": "# Atom Scale factor\r\n\r\nScale your Atom\r\n\r\nThis is useful when:\r\n* You have a HiDPI display and your OS doesn't auto detect the display settings for Atom\r\n* You want to show your code in presentations\r\n* You want to change the scale quickly\r\n\r\n### Basic Usage\r\n\r\n* Use `Ctrl+Alt+p` and enter your new scale factor ie. 1.5\r\n* Use `Ctrl+Alt+0` to reset the scale factor to 1\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
