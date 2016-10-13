@@ -9,19 +9,14 @@
     "hidpi",
     "zoom"
   ],
-  "activationCommands": {
-    "atom-workspace": [
-      "atom-scale-factor:set-scale-factor",
-      "atom-scale-factor:reset"
-    ]
-  },
   "repository": "https://github.com/josefernand/atom-scale-factor.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-space-pen-views": "^2.2.0"
+    "atom-space-pen-views": "^2.2.0",
+    "season": "^5.4.1"
   },
   "devDependencies": {
     "eslint": "^3.4.0",
