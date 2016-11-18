@@ -1,6 +1,6 @@
 # Atom Scale factor
 
-Scale your Atom
+Scale your Atom - https://josefernand.github.io/atom-scale-factor/
 
 This is useful when:
 * You have a HiDPI display and your OS doesn't auto detect the display settings for Atom
