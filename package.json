@@ -1,7 +1,7 @@
 {
   "name": "atom-scale-factor",
   "main": "./lib/atom-scale-factor",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Scale your Atom",
   "keywords": [
     "scale",
